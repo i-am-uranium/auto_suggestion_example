@@ -19,8 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  auto_suggestion_text_field:
-    path: /Users/uranium/FlutterDev/open_source_projects/auto_suggestion_text_field
+  auto_suggestion_text_field: ^0.0.1+1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
