@@ -2,6 +2,10 @@
 
 Auto Suggestion TextField Example
 
+![Alt text](screenshot-a.png "TextField")
+![Alt text](screenshot-b.png "TextField with error")
+![Alt text](screenshot-c.png "TextField with suggestion")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
